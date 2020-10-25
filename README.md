@@ -2,4 +2,5 @@
 Personal Answers to CCC questions, written in Python. Code is written by a beginner and unoptimized.
 
 TODO
-<ul>Hi</ul>
+* Finish J3
+* Start J4 and J5
