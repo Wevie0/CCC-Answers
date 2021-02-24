@@ -1,0 +1,33 @@
+string = input()
+num = 0
+
+num += string.count("ang")
+num += string.count("boh")
+num += string.count("cpi")
+num += string.count("dqj")
+num += string.count("erk")
+num += string.count("fsl")
+num += string.count("gtm")
+num += string.count("hun")
+num += string.count("ivo")
+num += string.count("jwp")
+num += string.count("kxq")
+num += string.count("lyr")
+num += string.count("mzs")
+num += string.count("nat")
+num += string.count("obv")
+num += string.count("pcv")
+num += string.count("qdw")
+num += string.count("rex")
+num += string.count("sfy")
+num += string.count("tgz")
+num += string.count("uha")
+num += string.count("vib")
+num += string.count("wjc")
+num += string.count("xkd")
+num += string.count("yle")
+num += string.count("zmf")
+
+print(num)
+
+
